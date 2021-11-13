@@ -1,0 +1,107 @@
+D:\My_Area_3_Dynamic\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_3_Dynamic\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_3_Dynamic\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Area_3_Dynamic\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\My_Area_3_Dynamic\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\My_Area_3_Dynamic\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_3_Dynamic\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_3_Dynamic\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_4_MathGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_4_MathGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_4_MathGrid\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Area_4_MathGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\My_Area_4_MathGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_4_MathGrid\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_4_MathGrid\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_4_MathGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormHelp.resources
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormAbout.resources
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormAbout.resources
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormHelp.resources
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\Копия My_Area_5_GridHelp\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormAbout.resources
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormHelp.resources
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\My_Area_6_MoveOfTops\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormAbout.resources
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormHelp.resources
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_7_MousePeresech\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_8\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_8\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_8\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_8\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_8\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Area_8\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\My_Area_8\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormAbout.resources
+D:\My_Area_8\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormHelp.resources
+D:\My_Area_8\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\My_Area_8\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_9\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_9\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_9\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_9\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_9\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Area_9\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\My_Area_9\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormAbout.resources
+D:\My_Area_9\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormHelp.resources
+D:\My_Area_9\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\My_Area_9\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_10\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_10\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_10\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_10\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_10\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Area_10\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\My_Area_10\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormAbout.resources
+D:\My_Area_10\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormHelp.resources
+D:\My_Area_10\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\My_Area_10\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_11\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_11\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+D:\My_Area_11\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+D:\My_Area_11\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+D:\My_Area_11\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormAbout.resources
+D:\My_Area_11\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormHelp.resources
+D:\My_Area_11\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+D:\My_Area_11\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+D:\My_Area_11\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+D:\My_Area_11\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.exe
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.pdb
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.exe
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\bin\Debug\My_Area_3_Dynamic.pdb
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\obj\Debug\ResolveAssemblyReference.cache
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Form1.resources
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormAbout.resources
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.FormHelp.resources
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.Properties.Resources.resources
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\obj\Debug\My_Area_3_Dynamic.csproj.GenerateResource.Cache
+C:\Документы\Разное - текущее\Карьерный Коучинг\Резюме\Программы для резюме\Программы для Юрия Дмитриевича\2 AreaMeter_DataGrid\My_Area_3_Dynamic\obj\Debug\AreaMeter.Properties.Resources.resources
